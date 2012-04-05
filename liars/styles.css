@@ -1,0 +1,199 @@
+body  {
+		font-size: 32px;
+		word-wrap: normal;
+		font-weight: bold;
+		margin: 0;
+	    padding: 0;
+	    border: 0;
+		background-color: black;
+		font-family: 'Iceberg', cursive;
+		background-image: url(http://itp.nyu.edu/~ab3615/liaralpha/images/videopage.png);
+		background-size: 100%;
+		background-position: absolute; top: 0px;
+		background-position: absolute; left: 0px;
+ 
+			}
+
+/*.block {
+
+position: absolute; top: 250px;
+position: absolute; left: 700;
+
+
+
+}
+
+*/
+.button1{
+
+position: absolute; top: 350px;
+position: absolute; left: 470px;
+size: 50%;
+
+
+
+}
+
+.button1:hover {
+
+transform: scale (1.05);
+	-ms-transform: scale(1.05); /* IE 9 */
+	-webkit-transform:scale(1.05); /* Safari and Chrome */
+	-o-transform: scale(1.05); /* Opera */
+	-moz-transform: scale(1.05); /* Firefox */
+
+
+
+}
+
+.button2{
+
+position: absolute; top: 500px;
+position: absolute; left: 470px;
+
+
+
+}
+
+
+.button2:hover {
+
+transform: scale (1.05);
+	-ms-transform: scale(1.05); /* IE 9 */
+	-webkit-transform:scale(1.05); /* Safari and Chrome */
+	-o-transform: scale(1.05); /* Opera */
+	-moz-transform: scale(1.05); /* Firefox */
+
+
+}
+ 
+
+/*.video {
+
+        background-position: absolute; top: 10px;
+		background-position: absolute; left: 500px;
+
+
+
+
+}
+
+     .video:hover{
+      
+       transform: translate(center) scale(4);
+		    -ms-transform: translate(center) scale(3); /* IE 9 
+			-webkit-transform: translate(center) scale(3); /* Safari and Chrome 
+			-o-transform: translate(center) scale(3); /* Opera 
+			-moz-transform: translate(center) scale(3); /* Firefox */
+      
+      
+ 
+
+#vid1 {
+
+        
+		position: absolute; top: 50px;
+		position: absolute; left: 30px;
+
+
+
+}
+
+     #vid1:hover{
+      
+       transform: translate(500px,200px) scale(4);
+		    -ms-transform: translate(500px,200px) scale(3); /* IE 9 */
+			-webkit-transform: translate(500px,200px) scale(3); /* Safari and Chrome */
+			-o-transform: translate(500px,200px) scale(3); /* Opera */
+			-moz-transform: translate(500px,200px) scale(3); /* Firefox */
+      
+      
+ 
+
+}
+
+
+#vid2 {
+
+       position: absolute; top: 50px;
+		position: absolute; left: 430px;
+
+
+
+}
+
+     #vid2:hover{
+      
+       transform: translate(100px,200px) scale(4);
+		    -ms-transform: translate(100px,200px) scale(3); /* IE 9 */
+			-webkit-transform: translate(100px,200px) scale(3); /* Safari and Chrome */
+			-o-transform: translate(100px,200px) scale(3); /* Opera */
+			-moz-transform: translate(100px,200px) scale(3); /* Firefox */
+      
+      
+ 
+
+}
+
+
+/* #vid3 {
+
+        background-position: absolute; top: 10px;
+		background-position: absolute; left: 500px;
+
+
+
+
+}
+
+     #vid3:hover{
+      
+       transform: translate(100px,200px) scale(4);
+		    -ms-transform: translate(100px,200px) scale(3); /* IE 9 
+			-webkit-transform: translate(100px,200px) scale(3); /* Safari and Chrome 
+			-o-transform: translate(100px,200px) scale(3); /* Opera 
+			-moz-transform: translate(100px,200px) scale(3); /* Firefox 
+      
+      
+ 
+
+}
+
+#vid4 {
+
+        background-position: absolute; top: 10px;
+		background-position: absolute; left: 500px;
+
+
+
+
+}
+
+     #vid4:hover{
+      
+       transform: translate(100px,200px) scale(4);
+		    -ms-transform: translate(100px,200px) scale(3); /* IE 9 
+			-webkit-transform: translate(100px,200px) scale(3); /* Safari and Chrome 
+			-o-transform: translate(100px,200px) scale(3); /* Opera 
+			-moz-transform: translate(100px,200px) scale(3); /* Firefox */
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
